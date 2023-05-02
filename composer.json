@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-hydrator",
+    "name": "nopoco/laminas-hydrator",
     "description": "Serialize objects to arrays, and vice versa",
     "license": "BSD-3-Clause",
     "keywords": [
